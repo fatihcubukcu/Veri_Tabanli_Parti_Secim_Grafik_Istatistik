@@ -16,7 +16,7 @@ namespace Veri_Tabanli_Parti_Secim_Grafik_Istatistik
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmOyGirisi());
         }
     }
 }
